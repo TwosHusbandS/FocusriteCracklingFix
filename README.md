@@ -23,7 +23,7 @@ Have a nice day.
 
 ### How to run
 
-* Download the latest .exe [here](https://google.com)
+* Download the latest .exe [here](https://github.com/TwosHusbandS/FocusriteCracklingFix/releases/download/0.1.0.0/FocusriteCracklingFix.exe)
 * Put it into a folder (a permanent place, not just your Download Path)
 * Run the .exe once.
 * Done. It will automatically start itself on every reboot. So dont move the .exe.
